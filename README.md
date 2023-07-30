@@ -4,6 +4,9 @@ Node.js command-line application that takes in user input to generate a logo and
 
 ## Link to Video Walkthrough
 Below is a link to a video walkthrough of the command line tool. The video shos the tool being used to generate a logo and write it to file. The video also shows the test being run.
+
+https://www.youtube.com/watch?v=gtpOZmMQA0E
+
 [![Watch the video](https://img.youtube.com/vi/gtpOZmMQA0E/default.jpg)](https://www.youtube.com/watch?v=gtpOZmMQA0E)
 
 
